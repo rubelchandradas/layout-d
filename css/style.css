@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    outline: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+/* Hearder part */
+header{
+width: 100%;
+float: left;
+}
+nav{
+background-color: aqua;
+width: 100%;
+float: left;
+padding: 10px 0px;
+}
+.logo-part{
+width: 20%;
+float: left;
+}
+.logo-part img{}
+.menu-part{
+width: 60%;
+float: left;
+text-align: center;
+padding: 25px 0px;
+}
+.menu-part li{
+display: inline-block;
+margin: 0px 10p;
+}
+.menu-part a{
+color: white;
+text-decoration: none;
+font-size: 15px;
+text-transform: uppercase;
+}
+.search-part{
+width: 20%;
+float: left;
+text-align: right;
+}
+.search-part i{
+    font-size: 20px;
+    color: white;
+    margin: 25px 0px;
+}
+
+/* about section */
+#about{
+width: 100%;
+float: left;
+background-color: brown;
+color: white;
+text-align: center;
+padding: 75px 0p;
+}
+.about-writing-part{
+    width: 100%;
+    float: left;
+}
+.about-box-part{
+    width: 100%;
+    float: left;
+}
+.about-box{
+    width: 33.33%;
+    float: left;
+}
+.about-box {
+    width: 33.33%;
+    float: left;
+}
+.about-box {
+    width: 33.33%;
+    float: left;
+}
